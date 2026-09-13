@@ -30,3 +30,5 @@ Thumbs.db
 
 # Scraping outputs (generated data)
 books_*.md
+quotes_*.md
+quotes_*.png
